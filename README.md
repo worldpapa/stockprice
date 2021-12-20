@@ -1,4 +1,7 @@
-# stock_price
+# Stock Price Project
+
+21.11.10 ~ 21.11.29 
+
 XGBoost model to predict stock price using Covid-19 data
 
 ## 문제
