@@ -2,7 +2,7 @@
 
 21.11.10 ~ 21.11.29 
 
-XGBoost model to predict stock price using Covid-19 data
+Covid-19 데이터를 사용하여 XGBoost 기법을 통하여 주가 예측하는 AI 모델링
 
 ** 자세한 코드는 [클릭](https://github.com/worldpapa/stockprice/blob/main/11_27_AI_class_stock%20(1).ipynb) 참고 바랍니다.
 
