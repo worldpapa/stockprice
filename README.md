@@ -4,7 +4,7 @@
 
 XGBoost model to predict stock price using Covid-19 data
 
-[* 상세코드](https://github.com/worldpapa/stockprice/blob/main/11_27_AI_class_stock%20(1).ipynb)
+[상세코드](https://github.com/worldpapa/stockprice/blob/main/11_27_AI_class_stock%20(1).ipynb)
 
 ## 문제
 > ![image](https://github.com/jungsungmoon/stock_price/blob/main/pic/%EC%83%88%20%ED%8F%B4%EB%8D%94/1.png)
